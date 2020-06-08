@@ -22,7 +22,7 @@ title: Cars and More
 email: alexandera9747@hstat.org 
 description: >- # this means to ignore newlines until "baseurl:"
   Cars have evolved over the past 100 years, ranging to speed differences to economically friendly inventions. 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "CarsAndMore" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
